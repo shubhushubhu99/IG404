@@ -42,7 +42,16 @@ if pkg update command will not work then first upgrade your termux and type y al
 pkg upgrade
 pkg upgrade
 ```
+## Screenshots:
 
+#### Main View:
+
+<img src="Screenshot_20221003-111505.png">
+<img src="Screenshot_20221003-111454.png">
+<img src="Screenshot_20221003-111421.png">
+
+## This repository is open source to help others. So if you wish to copy, consider giving credit!
+ 
 ## Authors
 
 DARK SQUAD (ANONYMOUS)
